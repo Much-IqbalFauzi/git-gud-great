@@ -1,3 +1,3 @@
 # git-gud-great
 
-__This is main branch my repo__
+1. I add new branch called ver2
